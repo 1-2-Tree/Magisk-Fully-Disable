@@ -1,0 +1,1 @@
+# Magisk-Fully-Disable
